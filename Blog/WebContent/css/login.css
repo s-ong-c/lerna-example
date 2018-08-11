@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+
+.button1{
+	height: 65px; width: 530px; margin-top: 12px; margin-bottom: 12px; 
+	background-color: #FFB6B9; font-size: 25px; color: white; border-width: 0px
+}
+.button2{
+	color : #8C8C8C;
+	background-color: white;
+}
+.button3{
+	color : white;
+	background-color: #FFB6B9;
+	border-width: 0px;
+}
+.button4{
+	border: solid 1px #FFB6B9;
+}
+input[type=text]:focus {
+	border: solid 1px #FFB6B9;
+}
+
+input[type=password]:focus {
+	border: solid 1px #FFB6B9;
+}
+
+input[type=button]:ACTIVE {
+	border: solid 1px #FFB6B9;
+}
+
+input[type=button]:HOVER {
+	border: solid 1px #FFB6B9;
+}
+
+
+
+body {
+	background-color: #F9F9F9;
+}
+
+
+
+.border1{
+	border: 1px solid #BDBDBD;
+}
+
+.field{
+	height:60px; width: 530px; border: 1px solid #BDBDBD; background-color: white;
+}
+
+
+.font1{
+	margin: 5px;
+	font: 15px;
+}
+
+
