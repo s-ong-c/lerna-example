@@ -1,0 +1,21 @@
+{
+  "name": "@s-ong-c/sample-one",
+  "version": "0.0.2",
+  "scripts": {
+    "build": "rm -rf dist && npm run build:typings && cross-env NODE_ENV=production INPUT_FILE=./index.ts rollup -c ../../rollup.config.js",
+    "build:typings": "ttsc -p ./tsconfig.json --declarationDir dist"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "homepage": "https://github.com/s-ong-c/lerna-example/tree/master/packages/sample-one/",
+  "bugs": {
+    "url": "https://github.com/s-ong-c/lerna-example/issues"
+  },
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-ong-c/lerna-example.git",
+    "directory": "packages/sample-one"
+  },
+  "gitHead": "e0dc1f4ff7b7040287c29d5a6b72eed82f572826"
+}
