@@ -16,6 +16,5 @@
     "type": "git",
     "url": "https://github.com/s-ong-c/lerna-example.git",
     "directory": "packages/sample-one"
-  },
-  "gitHead": "e0dc1f4ff7b7040287c29d5a6b72eed82f572826"
+  }
 }
