@@ -31,7 +31,7 @@
     "eslint-plugin-import": "2.21.2",
     "eslint-plugin-simple-import-sort": "5.0.3",
     "jest": "26.0.1",
-    "lerna": "3.22.1",
+    "lerna": "6.4.1",
     "read-pkg-up": "7.0.1",
     "rollup": "2.16.1",
     "rollup-plugin-peer-deps-external": "2.2.2",
